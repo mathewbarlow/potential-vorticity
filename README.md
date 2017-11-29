@@ -4,6 +4,8 @@ Python code (gfs_pv_1.1.py) for dynamic tropopause (DT) calculations: DT pressur
 the 330K isentropic surface, and a PV and theta cross-section at the latitude where the tropopause is lowest in the 
 domain.
 
+This code has a DOI and is citable:  <a href="https://zenodo.org/badge/latestdoi/110735652"><img src="https://zenodo.org/badge/110735652.svg" alt="DOI"></a>
+
 The data source is the online GFS analysis, where the date and time need to be set within the code.
 
 The program can take a few minutes to run because it is accessing data over the internet.
