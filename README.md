@@ -10,7 +10,7 @@ The program can take a few minutes to run because it is accessing data over the 
 
 Samples of the four figures that are generated are included as PNG files:
 
-<img align="left" width="300" height="300" src="DT_theta.png">
-<img align="left" width="300" height="300" src="DT_p.png">
-<img align="left" width="300" height="300" src="pv330.png">
-<img align="left" width="300" height="300" src="pv_xsec.png">
+<img align="left" width="300" height="300" src="image2_DT_theta.png">
+<img align="left" width="300" height="300" src="image1_DT_p.png">
+<img align="left" width="300" height="300" src="image3_pv330.png">
+<img align="left" width="300" height="300" src="image4_pv_xsec.png">
