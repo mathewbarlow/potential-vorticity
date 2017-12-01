@@ -1,12 +1,12 @@
 # potential-vorticity
 
-Python code (gfs_pv_1.2.py) for dynamic tropopause (DT) calculations: DT pressure, DT potential temperature (theta), PV on 
+Python code (<b>gfs_pv_1.2.py</b>) for dynamic tropopause (DT) calculations: DT pressure, DT potential temperature (theta), PV on 
 the 330K isentropic surface, and a PV and theta cross-section at the latitude where the tropopause is lowest in the 
-domain.
+domain. The date and time need to be set in the beginning of the code; the domain can be changed there as well.
 
 This code has a DOI and is citable:  <a href="https://zenodo.org/badge/latestdoi/110735652"><img src="https://zenodo.org/badge/110735652.svg" alt="DOI"></a>
 
-The data source is the online GFS analysis, where the date and time need to be set within the code.
+The data source is the online GFS analysis, and the date and time need to be set within the period of available data.
 
 The program can take a few minutes to run because it is accessing data over the internet.
 
