@@ -19,4 +19,4 @@ Samples of the four figures that are generated are included as PNG files:
 <img align="left" width="300" height="300" src="image3_pv330.png">
 <img align="left" width="300" height="300" src="image4_pv_xsec.png">
 
-<img align="left" width="300" height="300" src="image5_DT_3D_1.png">
+<img align="left" width="500" height="300" src="image5_DT_3D_1.png">
