@@ -83,8 +83,8 @@ while(it<nt-1):
 images = []
 filenames = []
     
-it=nt-1
-while(it>=0):
+it=0
+while(it<nt-1):
     
     mydate=dates[it].strftime('%Y%m%d')
     myhour=dates[it].strftime('%H')
@@ -372,7 +372,7 @@ while(it>=0):
     plt.clf()
 
         
-    it=it-1
+    it=it+1
     
 imageio.mimsave(pdir+'tp_time_anim.gif', images)
 #for file in filenames:
