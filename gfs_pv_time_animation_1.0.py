@@ -374,7 +374,7 @@ while(it<nt-1):
         
     it=it+1
     
-imageio.mimsave(pdir+'tp_time_anim.gif', images)
+imageio.mimsave(dirout+'tp_time_anim.gif', images)
 #for file in filenames:
 #    os.remove(file)
 
