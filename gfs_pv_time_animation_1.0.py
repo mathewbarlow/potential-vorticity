@@ -363,7 +363,7 @@ while(it<nt-1):
     
                     
     dirout = '/Users/mathew_barlow/downloads/'
-    filename=pdir +'tp_3D'+ time_out +'.png'
+    filename=dirout +'tp_3D'+ time_out +'.png'
     plt.savefig(filename, bbox_inches='tight')
     
     images.append(imageio.imread(filename))
