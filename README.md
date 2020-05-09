@@ -6,6 +6,8 @@ domain. The date and time need to be set in the beginning of the code; the domai
 
 <b>gfs_pv_1.2_3D.py</b> is the same code but with additional (poor) 3D plots
 
+Support from NSF AGS-1623912 is gratefully acknowledged.
+
 This code has a DOI and is citable:  <a href="https://zenodo.org/badge/latestdoi/110735652"><img src="https://zenodo.org/badge/110735652.svg" alt="DOI"></a>
 
 The data source is the online GFS analysis, and the date and time need to be set within the period of available data.
